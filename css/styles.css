@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #9D9D9D;
+  border-width: 5px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.profile {
+  margin: 100px;
+}
+
+.profile-pic {
+  height: 250px;
+  width: auto;
+  display: inline-block;
+  border-radius: 250px;
+}
+
+.skills {
+  margin: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.copyright {
+  margin: 0 auto 0 auto;
+  padding-top: 40px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.BUTTON_AQS {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+  font-family: Arial;
+  width: 120px;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 15px;
+  background-color: #58B3B3;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_AQS:hover {
+  background: #72D4D4;
+  border: solid #FFFFFF 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.coding {
+  height: auto;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design {
+  height: auto;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.contact {
+  margin-bottom: 40px;
+}
+
+.cloud {
+  height: auto;
+  width: 10%;
+}
+
+.top {
+  position: absolute;
+  right: 32%;
+  top: 12%;
+}
+
+.bottom {
+  position: absolute;
+  left: 25%;
+  bottom: 45%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #DBF6E9;
+  position: relative;
+  padding-top: 150px;
+}
+
+.hello {
+  margin: 40px auto 40px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  padding: 36px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #72E0E0;
+}
+
+.touch {
+  margin-bottom: 40px;
+}
